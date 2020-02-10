@@ -1,0 +1,2 @@
+# MyAngularTraining
+repo for angular
